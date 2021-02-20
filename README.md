@@ -31,3 +31,9 @@ SEHNLANXUEYUAN sensor fusion course homework-chapter 3 mapping and matching
     // matching_ptr_->SetGNSSPose(init_pose);
 ```
 对应的图片如下。
+![ScanContextBasedMatching](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/ScanContextBasedMatching1.png)
+![ScanContextBasedMatching](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/ScanContextBasedMatching2.png)
+![ScanContextBasedMatching](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/ScanContextBasedMatching3.png)
+![ScanContextBasedMatching](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/ScanContextBasedMatching4.png)
+![ScanContextBasedMatching](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/ScanContextBasedMatching5.png)
+![ScanContextBasedMatching](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/ScanContextBasedMatching6.png)
