@@ -10,7 +10,8 @@ SEHNLANXUEYUAN sensor fusion course homework-chapter 3 mapping and matching
 
 - 1.在提供的docker环境中，利用提供源码和kitti数据集进行建立地图。由于内存的问题，电脑在kitti数据播放到250以上的时候会出现内存不足导致的代码终止问题。所以在200s左右的时候，依次执行，优化，存图，存scancontext数据。
 
-建立的地图
+![建立的地图](https://github.com/Fred159/SHENLAN_sensorfusion_03/blob/main/figures/mapped_map.png)
+
 
 - 2.在2.1的步骤中，正常的话，会在src的slamdata路径下的map中会产生两个pcd文件。那么在确认有这个文件的情况下，通过roslaunch运行matching步骤。matching的方式这里利用了scancontext的方式。在本github repo的matching_flow.cpp的第144行中，添加下面这一行代码。
        
