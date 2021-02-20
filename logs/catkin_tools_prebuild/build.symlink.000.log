@@ -1,0 +1,12 @@
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./setup.zsh
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./_setup_util.py
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./local_setup.bash
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./cmake.lock
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./local_setup.zsh
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./setup.sh
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./setup.bash
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./env.sh
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/./local_setup.sh
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/lib/pkgconfig/catkin_tools_prebuild.pc
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /workspace/assignments/03-mapping-and-matching/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

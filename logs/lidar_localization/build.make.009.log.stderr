@@ -1,0 +1,86 @@
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:126:52:[m[K [01;31m[Kerror: [m[Kno matching function for call to ‘[01m[Klidar_localization::Matching::SetScanContextPose(Eigen::Matrix4f&)[m[K’
+         matching_ptr_->SetScanContextPose(init_pose[01;31m[K)[m[K;
+                                                    [01;31m[K^[m[K
+In file included from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching_flow.hpp:18:0[m[K,
+                 from [01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:6[m[K:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[Kcandidate: bool lidar_localization::Matching::SetScanContextPose(const lidar_localization::CloudData&)
+     bool [01;36m[KSetScanContextPose[m[K(const CloudData& init_scan);
+          [01;36m[K^~~~~~~~~~~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/include/lidar_localization/matching/matching.hpp:29:10:[m[K [01;36m[Knote: [m[K  no known conversion for argument 1 from ‘[01m[KEigen::Matrix4f {aka Eigen::Matrix<float, 4, 4>}[m[K’ to ‘[01m[Kconst lidar_localization::CloudData&[m[K’
+make[2]: *** [CMakeFiles/back_end_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/back_end_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/data_pretreat_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/data_pretreat_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/test_frame_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/test_frame_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/front_end_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/front_end_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/matching_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/matching_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/viewer_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/viewer_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/loop_closing_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/loop_closing_node.dir/all] Error 2
+make: *** [all] Error 2

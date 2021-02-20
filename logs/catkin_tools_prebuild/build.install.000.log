@@ -1,0 +1,15 @@
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/_setup_util.py
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/env.sh
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/setup.bash
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/local_setup.bash
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/setup.sh
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/local_setup.sh
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/setup.zsh
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/local_setup.zsh
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/.rosinstall
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/lib/pkgconfig/catkin_tools_prebuild.pc
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+-- Installing: /workspace/assignments/03-mapping-and-matching/install/share/catkin_tools_prebuild/package.xml

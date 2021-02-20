@@ -1,0 +1,115 @@
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target _lidar_localization_generate_messages_check_deps_saveScanContext
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target _lidar_localization_generate_messages_check_deps_optimizeMap
+[  0%] Built target _lidar_localization_generate_messages_check_deps_saveMap
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  1%] Built target lidar_localization_generate_messages_py
+[  3%] Built target lidar_localization_generate_messages_lisp
+[  3%] Built target lidar_localization_generate_messages_nodejs
+[  4%] Built target lidar_localization_generate_messages_eus
+[  5%] Built target lidar_localization_generate_messages_cpp
+[  5%] Built target lidar_localization_generate_messages
+[35m[1mScanning dependencies of target test_frame_node[0m
+[35m[1mScanning dependencies of target data_pretreat_node[0m
+[35m[1mScanning dependencies of target matching_node[0m
+[35m[1mScanning dependencies of target loop_closing_node[0m
+[35m[1mScanning dependencies of target viewer_node[0m
+[35m[1mScanning dependencies of target front_end_node[0m
+[35m[1mScanning dependencies of target back_end_node[0m
+[  5%] [32mBuilding CXX object CMakeFiles/data_pretreat_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/front_end_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/matching_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/back_end_node.dir/src/matching/matching_flow.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/test_frame_node.dir/src/matching/matching_flow.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/loop_closing_node.dir/src/matching/matching_flow.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/viewer_node.dir/src/matching/matching_flow.cpp.o[0m
+[  7%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/data_pretreat_node[0m
+[  8%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/viewer_node[0m
+[  8%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/loop_closing_node[0m
+[  8%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/matching_node[0m
+[  9%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/back_end_node[0m
+[  9%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/test_frame_node[0m
+[  9%] [32m[1mLinking CXX executable /workspace/assignments/03-mapping-and-matching/devel/.private/lidar_localization/lib/lidar_localization/front_end_node[0m
+[ 21%] Built target viewer_node
+[ 35%] Built target loop_closing_node
+[ 48%] Built target data_pretreat_node
+[ 60%] Built target back_end_node
+[ 74%] Built target matching_node
+[ 86%] Built target test_frame_node
+[100%] Built target front_end_node

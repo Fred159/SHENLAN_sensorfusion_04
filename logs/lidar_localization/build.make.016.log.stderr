@@ -1,0 +1,44 @@
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:146:5:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K;[m[K’ before ‘[01m[K}[m[K’ token
+     [01;31m[K}[m[K
+     [01;31m[K^[m[K
+make[2]: *** [CMakeFiles/front_end_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/front_end_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** [CMakeFiles/back_end_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/back_end_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/test_frame_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/test_frame_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/data_pretreat_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/data_pretreat_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/matching_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/matching_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/loop_closing_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/loop_closing_node.dir/all] Error 2
+make[2]: *** [CMakeFiles/viewer_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/viewer_node.dir/all] Error 2
+make: *** [all] Error 2

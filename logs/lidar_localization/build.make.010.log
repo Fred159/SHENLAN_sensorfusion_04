@@ -1,0 +1,181 @@
+[  0%] Built target tf2_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target actionlib_msgs_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_cpp
+[  0%] Built target nodelet_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_nodejs
+[  0%] Built target nodelet_generate_messages_eus
+[  0%] Built target tf2_msgs_generate_messages_lisp
+[  0%] Built target _lidar_localization_generate_messages_check_deps_optimizeMap
+[  0%] Built target _lidar_localization_generate_messages_check_deps_saveMap
+[  0%] Built target _lidar_localization_generate_messages_check_deps_saveScanContext
+[  0%] Built target dynamic_reconfigure_gencfg
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_lisp
+[  0%] Built target dynamic_reconfigure_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_cpp
+[  0%] Built target pcl_ros_gencfg
+[  0%] Built target topic_tools_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_py
+[  0%] Built target tf2_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_lisp
+[  0%] Built target sensor_msgs_generate_messages_lisp
+[  0%] Built target nodelet_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_py
+[  0%] Built target geometry_msgs_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_nodejs
+[  0%] Built target actionlib_generate_messages_cpp
+[  0%] Built target geometry_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_lisp
+[  0%] Built target bond_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target roscpp_generate_messages_nodejs
+[  0%] Built target geometry_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target roscpp_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_nodejs
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_eus
+[  0%] Built target roscpp_generate_messages_eus
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[  0%] Built target bond_generate_messages_cpp
+[  0%] Built target topic_tools_generate_messages_py
+[  0%] Built target bond_generate_messages_nodejs
+[  0%] Built target nodelet_topic_tools_gencfg
+[  0%] Built target actionlib_msgs_generate_messages_nodejs
+[  0%] Built target std_srvs_generate_messages_lisp
+[  0%] Built target topic_tools_generate_messages_lisp
+[  0%] Built target pcl_msgs_generate_messages_eus
+[  0%] Built target topic_tools_generate_messages_eus
+[  0%] Built target nodelet_generate_messages_py
+[  0%] Built target sensor_msgs_generate_messages_eus
+[  0%] Built target sensor_msgs_generate_messages_cpp
+[  0%] Built target sensor_msgs_generate_messages_py
+[  0%] Built target dynamic_reconfigure_generate_messages_cpp
+[  0%] Built target tf_generate_messages_py
+[  0%] Built target std_srvs_generate_messages_cpp
+[  0%] Built target tf_generate_messages_eus
+[  0%] Built target actionlib_msgs_generate_messages_cpp
+[  0%] Built target std_srvs_generate_messages_py
+[  0%] Built target pcl_msgs_generate_messages_py
+[  0%] Built target tf_generate_messages_nodejs
+[  0%] Built target tf_generate_messages_lisp
+[  0%] Built target actionlib_generate_messages_eus
+[  0%] Built target pcl_msgs_generate_messages_lisp
+[  0%] Built target tf_generate_messages_cpp
+[  0%] Built target actionlib_generate_messages_nodejs
+[  0%] Built target actionlib_msgs_generate_messages_lisp
+[  1%] Built target lidar_localization_generate_messages_py
+[  2%] Built target lidar_localization_generate_messages_nodejs
+[  4%] Built target lidar_localization_generate_messages_eus
+[  4%] Built target lidar_localization_generate_messages_lisp
+[  5%] Built target lidar_localization_generate_messages_cpp
+[  5%] Built target lidar_localization_generate_messages
+[35m[1mScanning dependencies of target test_frame_node[0m
+[35m[1mScanning dependencies of target front_end_node[0m
+[35m[1mScanning dependencies of target matching_node[0m
+[35m[1mScanning dependencies of target data_pretreat_node[0m
+[35m[1mScanning dependencies of target viewer_node[0m
+[35m[1mScanning dependencies of target loop_closing_node[0m
+[35m[1mScanning dependencies of target back_end_node[0m
+[  5%] [32mBuilding CXX object CMakeFiles/loop_closing_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/front_end_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/data_pretreat_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/matching_node.dir/src/matching/matching_flow.cpp.o[0m
+[  5%] [32mBuilding CXX object CMakeFiles/back_end_node.dir/src/matching/matching_flow.cpp.o[0m
+[  6%] [32mBuilding CXX object CMakeFiles/test_frame_node.dir/src/matching/matching_flow.cpp.o[0m
+[  7%] [32mBuilding CXX object CMakeFiles/viewer_node.dir/src/matching/matching_flow.cpp.o[0m
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:[m[K In member function ‘[01m[Kbool lidar_localization::MatchingFlow::UpdateMatching()[m[K’:
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:133:25:[m[K [01;31m[Kerror: [m[Kredeclaration of ‘[01m[KEigen::Matrix4f init_pose[m[K’
+         Eigen::Matrix4f [01;31m[Kinit_pose[m[K= Eigen::Matrix4f::Identity();
+                         [01;31m[K^~~~~~~~~[m[K
+[01m[K/workspace/assignments/03-mapping-and-matching/src/lidar_localization/src/matching/matching_flow.cpp:113:25:[m[K [01;36m[Knote: [m[K‘[01m[KEigen::Matrix4f init_pose[m[K’ previously declared here
+         Eigen::Matrix4f [01;36m[Kinit_pose[m[K = Eigen::Matrix4f::Identity();
+                         [01;36m[K^~~~~~~~~[m[K
+CMakeFiles/test_frame_node.dir/build.make:326: recipe for target 'CMakeFiles/test_frame_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/test_frame_node.dir/src/matching/matching_flow.cpp.o] Error 1
+make[1]: *** [CMakeFiles/test_frame_node.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+CMakeFiles/Makefile2:296: recipe for target 'CMakeFiles/test_frame_node.dir/all' failed
+CMakeFiles/front_end_node.dir/build.make:326: recipe for target 'CMakeFiles/front_end_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/front_end_node.dir/src/matching/matching_flow.cpp.o] Error 1
+CMakeFiles/Makefile2:2569: recipe for target 'CMakeFiles/front_end_node.dir/all' failed
+make[1]: *** [CMakeFiles/front_end_node.dir/all] Error 2
+CMakeFiles/matching_node.dir/build.make:326: recipe for target 'CMakeFiles/matching_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/matching_node.dir/src/matching/matching_flow.cpp.o] Error 1
+CMakeFiles/Makefile2:259: recipe for target 'CMakeFiles/matching_node.dir/all' failed
+make[1]: *** [CMakeFiles/matching_node.dir/all] Error 2
+CMakeFiles/data_pretreat_node.dir/build.make:326: recipe for target 'CMakeFiles/data_pretreat_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/data_pretreat_node.dir/src/matching/matching_flow.cpp.o] Error 1
+CMakeFiles/Makefile2:582: recipe for target 'CMakeFiles/data_pretreat_node.dir/all' failed
+make[1]: *** [CMakeFiles/data_pretreat_node.dir/all] Error 2
+CMakeFiles/loop_closing_node.dir/build.make:326: recipe for target 'CMakeFiles/loop_closing_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/loop_closing_node.dir/src/matching/matching_flow.cpp.o] Error 1
+CMakeFiles/Makefile2:1380: recipe for target 'CMakeFiles/loop_closing_node.dir/all' failed
+make[1]: *** [CMakeFiles/loop_closing_node.dir/all] Error 2
+CMakeFiles/back_end_node.dir/build.make:326: recipe for target 'CMakeFiles/back_end_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/back_end_node.dir/src/matching/matching_flow.cpp.o] Error 1
+CMakeFiles/Makefile2:1943: recipe for target 'CMakeFiles/back_end_node.dir/all' failed
+make[1]: *** [CMakeFiles/back_end_node.dir/all] Error 2
+CMakeFiles/viewer_node.dir/build.make:326: recipe for target 'CMakeFiles/viewer_node.dir/src/matching/matching_flow.cpp.o' failed
+make[2]: *** [CMakeFiles/viewer_node.dir/src/matching/matching_flow.cpp.o] Error 1
+CMakeFiles/Makefile2:145: recipe for target 'CMakeFiles/viewer_node.dir/all' failed
+make[1]: *** [CMakeFiles/viewer_node.dir/all] Error 2
+Makefile:140: recipe for target 'all' failed
+make: *** [all] Error 2
